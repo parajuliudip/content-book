@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "content-book"
+    }
+  },
+  "defaultProject": "content-book",
+  "cli": {
+    "analytics": false
+  }
 }
